@@ -353,7 +353,6 @@ TARGET_SIZE = 5000
 ### `/nlp_pipeline`
 **Main implementation notebooks and scripts**
 - `NLP_emotion_detection_pipeline.ipynb` - Complete end-to-end pipeline
-- `Task_11.ipynb` - Full workflow from video to emotion
 - `run_pipeline.py` - Production script
 - `requirements.txt` - Python dependencies
 
