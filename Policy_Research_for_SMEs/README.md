@@ -1,331 +1,604 @@
-# The Impact of Employee Cybersecurity Awareness on the Overall Security of Small Hotels
+# Anastasiia Mokhonko - Data Science & AI Portfolio
 
-## Project Overview
+Data Science & Artificial Intelligence Student at Breda University of Applied Sciences
 
-This research project investigates how employee cybersecurity awareness impacts the overall security posture of small hotels. Conducted at Breda University of Applied Sciences in partnership with DigiWerkplaats, this study addresses the critical gap between cybersecurity knowledge and practice in small and medium-sized hospitality enterprises.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/AnastasiiaMokhonko234301)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:Mohonko.anastasia@gmail.com)
 
-**Duration:** September 2, 2024 - November 1, 2024  
-**Institution:** Breda University of Applied Sciences (BUas)  
-**Partner Organization:** DigiWerkplaats Breda
+---
 
-## Research Question
+## 👋 About Me
 
-**Main Question:** How does employee cybersecurity awareness impact the overall security of small hotels?
+Data science professional specializing in machine learning, computer vision, and NLP with proven experience delivering production-ready solutions for real clients. Demonstrated expertise across diverse domains: sports analytics, medical AI, agricultural technology, legal-compliant applications, advanced NLP, and policy research. Strong focus on combining technical excellence with measurable business impact, regulatory compliance, and evidence-based policy recommendations.
 
-**Sub-questions:**
-1. Do the personal opinions of employees affect their approach to cybersecurity concerns?
-2. Does the presence of an in-house IT specialist improve the cybersecurity awareness of hotel employees?
-3. Does the frequency of cybersecurity training affect employee adherence to cybersecurity practices in small hotels?
-4. Do the employees' ages correlate with their level of cybersecurity awareness?
-5. How do small hotels educate their employees on cybersecurity practices?
+### What Sets Me Apart
 
-## Key Findings
+✅ **5 Real Client Projects:** NPEC, NAC Breda, ANWB, Content Intelligence, DigiWerkplaats   
 
-### Training Effectiveness
-- **Moderate positive correlation (r = 0.456)** between training frequency and security protocol adherence
-- Optimal training frequency: **Quarterly or biannual sessions**
-- Interactive, scenario-based training significantly improves engagement and retention
+---
 
-### Role-Specific Insights
-- Employees with IT-related roles demonstrate higher adherence levels
-- Role-specific training proves more effective than generalized approaches
-- Relevance to daily tasks strongly influences practical application
+## 🛠️ Core Competencies
 
-### Demographic Analysis
-- **No significant difference** in cybersecurity awareness across age groups
-- Supports development of universal training programs
-- Age and gender show minimal impact on security awareness
+### Technical Skills
 
-## Methodology
-
-### Mixed-Methods Approach
-
-**Quantitative Data Collection:**
-- Online surveys via Qualtrics
-- Variables measured: age, confidence levels, training frequency, perceived impact
-- Data encoding for statistical analysis
-
-**Qualitative Data Collection:**
-- Structured interviews (in-person or via Microsoft Teams)
-- Audio recordings (mp3 format) with consent
-- AI-powered transcription with manual verification
-- Thematic coding and analysis
-
-**Analysis Tools:**
-- Python with scikit-learn
-- Jupyter Notebooks
-- Statistical correlation analysis
-
-## Repository Structure
-
+**Programming & Tools**
 ```
-Policy_Research_for_SMEs/
-├── README.md                            # Project documentation
-├── Poster.png                           # Research poster/infographic
-├── Future_research.pdf                  # Identified research directions
-├── Policy_paper_Cybersecurity.pdf       # Final policy recommendations
-├── Research_proposal.pdf                # Initial research design
-├── DMP/                                 # Data Management Plan folder
-│   ├── A FAIR Checklist.pdf            # FAIR data principles compliance
-│   ├── BUas Research Ethics.pdf        # Ethics review documentation
-│   ├── Codebook.md                     # Variable descriptions and encoding
-│   ├── Data_storage_protocol.docx      # File naming and folder structure
-│   ├── Informed Consent Form.docx      # Participant consent documentation
-│   ├── NWO_DMP_Data_Mangament_plan.pdf # Comprehensive data management plan
-│   ├── Privacy and GDPR Checklist.pdf  # GDPR compliance documentation
-│   └── Research Information Letter.pdf # Study overview for participants
-└── Data/                                # Research data folder
-    ├── Interview(audio)/                # Raw interview recordings
-    │   ├── Interview 1.mp3
-    │   ├── Interview 2.mp3
-    │   ├── Interview 3.mp3
-    │   ├── Interview 4.mp3
-    │   └── Interview 5.mp3
-    ├── Interview(transcript)/           # Interview transcripts (PDF)
-    │   └── Interview_Transcript_Cybersecurity_Practices_in_....pdf (5 files)
-    ├── Analyzed_qualitative_data.pdf    # Thematic analysis results
-    ├── cleaned_survey.xlsx              # Processed survey data
-    ├── Data_preparation.ipynb           # Data cleaning and preparation notebook
-    └── FINAL-Cybersecurity-employee_September 30...xlsx  # Raw survey responses
+Python        ████████████████████ 95%
+SQL           ███████████████████░ 90%
+Power BI      ████████████████░░░░ 85%
+Git           ██████████████████░░ 85%
 ```
 
-## Data Management & Ethics Documentation
+**Machine Learning & AI**
+- **Supervised Learning:** Regression, Classification, Ensemble Methods (Gradient Boosting, Random Forest, SVM)
+- **Deep Learning:** CNNs, Transfer Learning (MobileNetV2), U-Net, 3D Segmentation
+- **NLP:** Transformers (CamemBERT, BERT), Machine Translation (OPUS-MT), Sentiment Analysis
+- **Unsupervised Learning:** K-Means Clustering, Dimensionality Reduction (PCA, t-SNE)
+- **Computer Vision:** Semantic Segmentation, Instance Segmentation, Object Detection
+- **Explainable AI:** LIME, Grad-CAM, Attention Visualization
 
-### Compliance Framework
+**Data Science Stack**
+- **Data Processing:** pandas, NumPy, SciPy, SQL
+- **ML Frameworks:** scikit-learn, TensorFlow, Keras, PyTorch
+- **NLP:** Hugging Face Transformers, spaCy, NLTK, TextBlob
+- **Computer Vision:** OpenCV, scikit-image, PIL, patchify
+- **Visualization:** matplotlib, seaborn, Plotly, Power BI
+- **Graph Analysis:** NetworkX (Dijkstra's algorithm)
 
-This research adheres to strict ethical standards and data protection regulations as required by Breda University of Applied Sciences and Dutch research integrity guidelines.
+**Research Methods**
+- **Quantitative:** Survey design, statistical analysis, correlation analysis
+- **Qualitative:** Structured interviews, thematic coding, content analysis
+- **Mixed-Methods:** Integration of quantitative and qualitative data
+- **Ethics & Compliance:** GDPR, FAIR data principles, research ethics review
 
-**Key Documentation in DMP Folder:**
+**Software Engineering**
+- **Version Control:** Git, GitHub, Azure DevOps
+- **Testing:** pytest, unittest (>30% code coverage)
+- **Deployment:** Streamlit, Flask, Docker
+- **Documentation:** Sphinx, Jupyter notebooks, technical writing
+- **Database:** PostgreSQL, MySQL
+- **APIs:** RESTful API development, AssemblyAI
 
-1. **A FAIR Checklist** - Ensures data is Findable, Accessible, Interoperable, and Reusable
-   - Persistent identifiers assigned to datasets and metadata
-   - Data provided in open formats (CSV, JSON) for cross-platform compatibility
-   - Metadata follows Dublin Core and DataCite standards
-   - Clear usage licenses (Creative Commons) for data reuse
+**Specialized Domains**
+- **Legal Compliance:** EU AI Act, GDPR implementation
+- **Sports Analytics:** Performance prediction, recruitment optimization  
+- **Agricultural AI:** Disease detection, phenotyping automation
+- **Media Analytics:** Emotion classification, content intelligence
+- **Policy Research:** Cybersecurity awareness, SME security posture
+- **Time Series:** Temporal analysis and forecasting
 
-2. **BUas Research Ethics Review Application** - Comprehensive ethics review documentation
-   - Risk assessment categorization: MEDIUM
-   - Informed consent procedures for all participants
-   - Privacy safeguards and data protection measures
-   - No vulnerable populations or medical procedures involved
+---
 
-3. **NWO Data Management Plan** - Detailed data lifecycle management
-   - Storage: BUas institutional networked research storage (0-10 GB)
-   - Security: Default institutional measures with encryption
-   - Retention: Minimum 10 years per institutional policy
-   - Access: Research team and mentors only during active research
+## 🚀 Featured Projects
 
-4. **Privacy and GDPR Checklist** - European data protection compliance
-   - Legal basis: Informed consent from all participants
-   - Risk level: Low (no sensitive medical/financial data)
-   - Data anonymization before analysis
-   - Two-factor authentication for data access
-   - Participants' right to withdraw at any time
+### 1. Cybersecurity Awareness Policy Research (DigiWerkplaats)
+**Mixed-Methods Research for Small Hotel Security**
 
-5. **Codebook** - Complete variable documentation
-   - 22 quantitative variables with encoding schemes
-   - 9 qualitative themes from interview analysis
-   - Ordinal, nominal, and continuous variable specifications
-   - Survey and interview question mapping
+Comprehensive policy research project investigating how employee cybersecurity awareness impacts security posture in small hotels, delivering evidence-based recommendations to improve SME cybersecurity practices.
 
-6. **Data Storage Protocol** - Standardized file naming and organization
-   - Version control system (V<x> format)
-   - Date format: DD-MM-YYYY
-   - Naming convention: `<version>_<date>_<names>.<extension>`
-   - Clear folder structure for interviews, surveys, and analysis
+**Client:** DigiWerkplaats Breda - Digital innovation hub for SMEs  
+**Research Partner:** Breda University of Applied Sciences  
+**Duration:** September - November 2024  
+**Domain:** Policy Research, Cybersecurity, Hospitality Industry
 
-7. **Informed Consent Form** - Participant rights and study information
-   - Purpose: Investigate cybersecurity awareness impact
-   - Voluntary participation with right to withdraw
-   - Confidentiality and anonymization guarantees
-   - GDPR-compliant data handling
+**Key Achievements:**
+- 📊 **Moderate positive correlation (r = 0.456)** between training frequency and adherence
+- 🎯 **Optimal training frequency identified:** Quarterly or biannual sessions
+- 📋 **Evidence-based policy recommendations** for small hotel cybersecurity
+- ⚖️ **Full GDPR compliance** with comprehensive ethics review
+- 🔬 **Mixed-methods approach:** Quantitative surveys + qualitative interviews
 
-8. **Research Information Letter** - Study details for participants
-   - Duration: September 30 - November 25, 2024
-   - Eligibility: Ages 18-65, hotel employees or hospitality students
-   - No costs, risks, or compensation involved
-   - Contact information for questions or complaints
+**Research Highlights:**
+- **Ethics & Compliance:** BUas Research Ethics Board approval, GDPR checklist, FAIR data principles
+- **Quantitative Analysis:** Online surveys via Qualtrics, Python statistical analysis, correlation studies
+- **Qualitative Analysis:** 5 structured interviews, AI-powered transcription, thematic coding
+- **Data Management:** NWO Data Management Plan, 10-year retention, institutional storage
+- **Key Finding:** No significant age differences in awareness - supports universal training programs
 
-### Data Protection Measures
+**Impact:**
+- Informs DigiWerkplaats SME cybersecurity initiatives
+- Evidence-based training frequency recommendations
+- Role-specific security protocol development
+- Policy framework for small hospitality businesses
 
-**During Research:**
-- Encrypted storage on BUas institutional systems
-- Access restricted to research team (5 students + supervisor)
-- Two-factor authentication where available
-- No third-party data processing
+**Documentation:**
+- Research proposal with literature review
+- Data Management Plan with GDPR compliance
+- Codebook with 22 quantitative + 9 qualitative variables
+- Informed consent forms and ethics approval
+- Policy paper with actionable recommendations
+- Research poster for stakeholder presentation
 
-**After Research:**
-- Personal identifiers replaced with anonymous IDs
-- Age, occupation, and non-identifying data retained for analysis
-- Full anonymization before public release
-- Participant names and contact information permanently deleted
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/Policy_Research_for_SMEs)
 
-### Ethics Approval
+---
 
-**Review Status:** Approved by BUas Research Ethics Review Board
-- Application submitted: September 27, 2024
-- Risk category: MEDIUM (due to personal data collection)
-- Consultation with data management support: Myrthe Buckens (September 17, 2024)
-- Compliance verified with Netherlands Code of Conduct for Research Integrity (2018)
+### 2. Plant Root Segmentation & Robotic Control (NPEC)
+**Advanced Computer Vision for Agricultural Research**
 
-### Participant Rights
+Production-ready system for Netherlands Plant Eco-phenotyping Centre combining classical CV, deep learning, and graph theory for automated plant root analysis.
 
-All research participants were informed of their rights:
-- Full transparency about data collection and usage
-- Voluntary participation without penalty for withdrawal
-- Access to their own data upon request
-- Right to have data deleted if withdrawn before analysis completion
-- Anonymous presentation of all findings in publications
+**Client:** NPEC - Leading European plant phenotyping research facility  
+**Tech Stack:** Python, TensorFlow, U-Net, OpenCV, NetworkX  
+**Domain:** Plant Phenotyping, Agricultural Research, Robotics
 
-## Data Description
+**Key Achievements:**
+- 🏆 **99% time reduction:** 30 minutes → 34 seconds per image
+- 🎯 **>85% IoU accuracy** for root segmentation
+- 🤖 **Robotic integration framework** for automated inoculation
+- 📊 **100+ images/hour throughput** for high-throughput phenotyping
 
-### Qualitative Data
+**Technical Highlights:**
+- **Hybrid Approach:** Classical CV (10-iteration pipeline) + Deep Learning (U-Net)
+- **Graph Theory:** NetworkX & Dijkstra's algorithm for accurate root length measurement
+- **Multi-Class Segmentation:** 3 plant structures (root, shoot, seed)
+- **Dataset-Adaptive:** Different preprocessing for Y2B_23 vs Y2B_24
+- **Quality Control:** 5-requirement annotation validation system
 
-**Interview Audio Files** (`Data/Interview(audio)/`)
-- 5 audio recordings in MP3 format
-- Structured interviews with hotel employees
-- Recorded with participant consent
-- Average duration: [duration information]
+**Impact:**
+- Enables NPEC's sustainable plant research mission
+- Accelerates breeding programs for climate-resilient crops
+- Supports plant-microbe interaction studies at scale
 
-**Interview Transcripts** (`Data/Interview(transcript)/`)
-- 5 PDF transcripts corresponding to audio recordings
-- AI-powered transcription with manual verification
-- Anonymized participant information
-- Coding applied for thematic analysis
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_RootSegmentation%26RoboticControl)
 
-**Thematic Analysis** (`Data/Analyzed_qualitative_data.pdf`)
-The qualitative analysis identified four major themes from employee interviews:
+---
 
-1. **Infrequency and Basic Nature of Training**
-   - Training limited to onboarding or annual refreshers
-   - Covers foundational topics (phishing, passwords, basic data protection)
-   - Lacks coverage of advanced practices (MFA, encryption, sophisticated threats)
-   - Knowledge diminishes over time without regular updates
+### 3. French Emotion Detection NLP Pipeline (Content Intelligence)
+**Content Intelligence for Media Analytics**
 
-2. **Limited Interactivity and Engagement**
-   - Passive delivery format (online videos, brief presentations)
-   - Perceived as "check-the-box" compliance task
-   - Low retention and motivation
-   - Employees prefer hands-on, scenario-based learning
+End-to-end transformer-based NLP system for analyzing emotions in French video content, combining speech-to-text, machine translation, and emotion classification.
 
-3. **Lack of Role-Specific Relevance**
-   - Generic content not tailored to specific job functions
-   - Night-shift employees face unique security challenges
-   - Front-desk staff need specialized data protection guidance
-   - Disconnect between training and daily responsibilities
+**Client:** Content Intelligence (outstanding content) - Media analytics agency  
+**Tech Stack:** CamemBERT, OPUS-MT, AssemblyAI, PyTorch, LIME  
+**Domain:** Natural Language Processing, Media Analytics
 
-4. **Self-Directed Learning and Need for Ongoing Updates**
-   - Employees supplement with personal research
-   - Inconsistent knowledge levels across staff
-   - Desire for standardized, management-driven updates
-   - Need for regular refreshers on emerging threats
+**Key Achievements:**
+- 🎯 **63.09% overall accuracy** (80% for high-risk emotions)
+- 🗣️ **5.07% WER** for French speech transcription (AssemblyAI)
+- 🌍 **5 datasets combined:** 35,000 training sentences
+- 🔍 **Explainable AI:** LIME + attention visualization
 
-### Quantitative Data
+**Technical Highlights:**
+- **Multi-Model Pipeline:** AssemblyAI (STT) → OPUS-MT (translation) → CamemBERT (emotion)
+- **Advanced XAI:** LIME explanations + attention maps reveal model reasoning
+- **Data Engineering:** Combined Friends, GoEmotions, reality TV, synthetic datasets
+- **Class Balancing:** Contextual augmentation with CamemBERT (5,000/class)
+- **7 Emotion Categories:** Happiness (87.5% recall), neutral, surprise, anger, sadness, disgust, fear
 
-**Raw Survey Data** (`Data/FINAL-Cybersecurity-employee_September 30...xlsx`)
-- Online survey responses collected via Qualtrics
-- Variables: age, confidence levels, training frequency, perceived impact
-- Exported in Excel format for initial review
+**Insights:**
+- Model excels at happiness detection but struggles with subtle negative emotions
+- Over-relies on punctuation; needs improvement on French idioms
+- Documented error patterns inform future iterations
 
-**Cleaned Survey Data** (`Data/cleaned_survey.xlsx`)
-- Processed and validated survey responses
-- Missing data handled
-- Data encoded for statistical analysis
-- Ready for analysis in Python/Jupyter
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/NLP_ContentIntelligenceAgency)
 
-**Data Preparation Notebook** (`Data/Data_preparation.ipynb`)
-- Jupyter notebook documenting data cleaning steps
-- Variable recoding and transformation
-- Data quality checks and validation
-- Reproducible preprocessing pipeline
+---
 
-### Key Quantitative Findings
+### 4. Football Player Analytics & Recruitment Optimization (NAC Breda)
+**Data-Driven Decision Making for Professional Football**
 
-- **Training-Adherence Correlation:** Moderate positive correlation (r = 0.456)
-- **Optimal Training Frequency:** Quarterly or biannual sessions
-- **Role Impact:** IT-related roles show higher adherence
-- **Demographics:** No significant age or gender differences in awareness
+End-to-end machine learning project analyzing 16,535 players across 114 performance metrics to optimize player recruitment strategies for professional football club.
 
-## Key Recommendations
+**Client:** NAC Breda - Dutch professional football club (Eerste Divisie)  
+**Tech Stack:** Python, scikit-learn, pandas, matplotlib, seaborn  
+**Domain:** Sports Analytics, Predictive Modeling
 
-### For Small Hotels
+**Key Achievements:**
+- 📊 **95%+ accuracy** predicting goal-scoring potential
+- ⚽ **16,535 players analyzed** across multiple leagues
+- 📈 **114 performance metrics** processed
+- 📋 **Comprehensive report** delivered to client
 
-1. **Implement Regular Training**
-   - Schedule cybersecurity training every 3-6 months
-   - Balance engagement and knowledge retention
-   - Avoid training fatigue through optimal spacing
+**Technical Highlights:**
+- **Model Comparison:** Gradient Boosting (best), Random Forest, SVM, Logistic Regression
+- **Feature Engineering:** Correlation analysis, xG metrics, performance indicators
+- **Hyperparameter Tuning:** RandomizedSearchCV optimization
+- **Business Insights:** Market value trends, age-performance curves, position analysis
 
-2. **Enhance Interactivity**
-   - Incorporate scenario-based exercises
-   - Simulate real-world cybersecurity threats
-   - Tailor content to specific roles (front desk, night shift, management)
+**Business Impact:**
+- Identified undervalued talent in transfer market
+- Data-driven insights for recruitment decisions
+- Optimized investment in player acquisitions
 
-3. **Foster Security Culture**
-   - Provide visible leadership support
-   - Issue regular reminders about best practices
-   - Integrate security naturally into daily workflows
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ML_GoalPrediction_NAC)
 
-4. **Universal Training Approach**
-   - Standardize training for each role
-   - Ensure foundational knowledge for all employees
-   - Focus on inclusivity regardless of demographics
+---
 
-5. **Consider Third-Party Providers**
-   - Explore cost-effective external training solutions
-   - Leverage industry best practices
-   - Address resource limitations
+### 5. Driver Safety & Route Optimization (ANWB - Straat-o-sfeer)
+**EU AI Act Compliant Road Safety Application**
 
-## Data Management
+Production-ready Streamlit application for ANWB predicting street-level risk and providing intelligent routing recommendations with full EU legal compliance.
 
-### Storage and Security
-- **Platform:** BUas institutional research storage
-- **Security:** Default institutional measures with encryption
-- **Retention:** Minimum 10 years per institutional policy
-- **Access:** Limited to research team and mentors
+**Client:** ANWB - Royal Dutch Touring Club (automobile association)  
+**Tech Stack:** Python, Streamlit, PostgreSQL, Flask, scikit-learn  
+**Domain:** Smart Mobility, Regulatory Compliance
 
-### Privacy and GDPR Compliance
-- All personal data anonymized before analysis
-- Informed consent obtained from all participants
-- Participants can withdraw at any time
-- Compliance verified via Privacy and GDPR Checklist
+**Key Achievements:**
+- ⚖️ **EU AI Act Compliant:** Limited Risk classification with full documentation
+- 🔒 **GDPR Implementation:** Led data protection compliance
+- 📍 **80% accuracy** for high-risk area detection
+- ✅ **>30% test coverage** with comprehensive unit testing
 
-### Data Availability
-- Survey and interview data available upon project completion
-- Personal information anonymized or excluded
-- Public domain license for research reuse
-- Contact research team for data requests
+**Technical Highlights:**
+- **Full-Stack Application:** SQL database → ML model → Streamlit UI
+- **Legal Framework:** EU AI Act risk assessment, GDPR data handling
+- **ML Model:** Logistic Regression with weather data integration
+- **Security:** hashlib encryption, environment variables
+- **Production:** Live deployment with Poetry dependency management
 
-## Future Research Directions
+**My Role:**
+- GDPR compliance section lead
+- Database design and ETL pipeline
+- Preprocessing and feature engineering
+- Team collaboration (Team 17)
 
-1. **Longitudinal Studies** - Track training effectiveness over extended periods
-2. **Cost-Benefit Analysis** - Evaluate ROI of cybersecurity investments
-3. **Emerging Technologies** - Assess impact of IoT devices and AI-driven threat detection
-4. **Gamification Methods** - Explore innovative training approaches (VR, mobile apps)
-5. **Cross-Cultural Studies** - Compare cybersecurity norms across regions
-6. **Organizational Culture** - Investigate leadership and policy impact
-7. **Behavioral Metrics** - Measure actual behavior beyond self-reported awareness
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ML_ANWB)
 
-## Acknowledgments
+---
 
-- **DigiWerkplaats** - Project partner and industry collaboration
-- **BUas Research Ethics Review Board** - Ethics guidance
-- **Participating Hotels and Employees** - Research participants
+### 6. Potato Leaf Disease Classification
+**Deep Learning for Agricultural Disease Detection**
 
-## License
+Computer vision system using transfer learning to classify potato leaf diseases with 95.3% accuracy, surpassing human expert performance.
 
-This project documentation is available under a public domain license. Research data available upon request with appropriate anonymization measures.
+**Tech Stack:** TensorFlow, Keras, MobileNetV2, OpenCV, Grad-CAM  
+**Domain:** Agricultural AI, Computer Vision, Explainable AI
 
-## Citation
+**Key Achievements:**
+- 🏆 **95.3% accuracy** (vs 84.3% human expert baseline)
+- 🔬 **Grad-CAM visualization** for model interpretability
+- 📱 **Mobile-ready:** 24.7 MB model, <50ms inference
+- 🎨 **User-tested:** A/B testing + Figma prototyping
 
-If you use this research or data, please cite:
+**Technical Highlights:**
+- **Transfer Learning:** MobileNetV2 pre-trained on ImageNet
+- **4 Model Iterations:** Basic CNN → BatchNorm → Transfer Learning → Final (95.3%)
+- **Data Augmentation:** Rotation, flip, zoom, shear transformations
+- **Explainable AI:** Grad-CAM shows model focuses on disease lesions
+- **Fairness Analysis:** Addressed sampling, label, and measurement bias
+
+**Solution: "Farmer's Buddy"**
+- Real-time disease detection from smartphone photos
+- Treatment recommendations for blight types
+- Health monitoring dashboard
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_FarmersBuddy)
+
+---
+
+### 7. Human Trafficking Analysis Dashboard (UN SDG 16)
+**Power BI Analytics for Social Impact**
+
+Interactive dashboard analyzing global human trafficking patterns to support UN Sustainable Development Goal 16: Peace, Justice and Strong Institutions.
+
+**Tech Stack:** Power BI, DAX, Power Query  
+**Domain:** Social Impact, Data Visualization
+
+**Key Achievements:**
+- 🌍 **Global analysis** of trafficking victims by region
+- 📊 **Demographic insights:** Age, gender vulnerability patterns
+- 📈 **0.68 correlation** between detection and temporal trends
+- 🎯 **UN SDG 16** alignment for policy impact
+
+**Insights Delivered:**
+- **Demographics:** 56.9% female victims, 18-29 age range most affected
+- **Regional Patterns:** Europe, Africa, Asia show highest concentrations
+- **Exploitation Types:** Sexual exploitation disproportionately affects females
+- **Trends:** Rising detection indicates improved reporting or increased incidence
+
+**Visualizations:**
+- Interactive geographic map
+- Time-series trend analysis
+- Demographic breakdowns
+- Exploitation type by region
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/Human_Trafficking_Data_Analysis_(SDG16))
+
+---
+
+## 📜 Certifications
+
+### DataCamp Professional Certificates (60+ hours)
+
+**Business Intelligence & Analytics - Complete Track ⭐**
+- Introduction to Power BI
+- Data Preparation in Power BI
+- Data Visualization in Power BI
+- Exploratory Data Analysis in Power BI
+- Data Modeling in Power BI
+- Case Study: Analyzing Customer Churn in Power BI
+- Report Design in Power BI
+- User-Oriented Design in Power BI
+
+**Data Science & Time Series**
+- Introduction to SQL
+- Time Series Analysis in Python
+- Manipulating Time Series Data in Python
+- Visualizing Time Series Data in Python
+
+**Data Engineering**
+- Data Manipulation with pandas
+- Introduction to Importing Data in Python
+
+**Machine Learning**
+- Understanding Machine Learning
+- Dimensionality Reduction in Python
+
+**Technical Skills**
+- Unit Testing for Data Science in Python
+- Introduction to Data Visualization with Matplotlib
+
+**Research & Professional Development**
+- Academic Research Foundations: Quantitative
+- Professional Skills: Resume Writing, Mental Health, Stress Management
+
+---
+
+**Total:** 22 certificates | 60+ hours of structured learning  
+ 
+---
+
+## 💼 Project Portfolio Summary
+
+### By Domain
+
+**Client Projects (5)**
+1. **DigiWerkplaats** - Cybersecurity Policy Research
+2. **NPEC** - Plant Root Segmentation
+3. **Content Intelligence** - French Emotion Detection
+4. **NAC Breda** - Football Analytics
+5. **ANWB** - Driver Safety App 
+
+**Research Projects (2)**
+1. **Agricultural AI** - Potato Disease Classification
+2. **Social Impact** - Human Trafficking Analysis (UN SDG 16)
+
+### By Technical Approach
+
+| Approach | Projects | Key Technologies |
+|----------|----------|------------------|
+| **Research Methods** | Cybersecurity Policy | Qualtrics, Python, Mixed-Methods, Thematic Analysis |
+| **Deep Learning** | Potato Disease, Root Segmentation | U-Net, MobileNetV2, Transfer Learning |
+| **Classical ML** | Football Analytics, Driver Safety | Gradient Boosting, Logistic Regression |
+| **Computer Vision** | Root Segmentation, Potato Disease | OpenCV, Morphological Ops, Segmentation |
+| **NLP/Transformers** | French Emotion Detection | CamemBERT, OPUS-MT, AssemblyAI |
+| **Business Intelligence** | Human Trafficking, Football | Power BI, DAX, Statistical Analysis |
+| **Full-Stack** | Driver Safety | Streamlit, Flask, PostgreSQL |
+
+---
+
+## 🎯 Skills Demonstrated Across Projects
+
+### Technical Excellence
+- **Multiple ML Paradigms:** Classical ML, Deep Learning, NLP, Computer Vision
+- **Research Methods:** Mixed-methods design, qualitative & quantitative analysis
+- **Production Quality:** Clean code, documentation, ethics compliance
+- **Performance Optimization:** GPU acceleration, batch processing, efficient algorithms
+- **Model Evaluation:** Comprehensive metrics, error analysis
+
+### Business & Research Value
+- **Client Delivery:** Real client projects (DigiWerkplaats, NPEC, Content Intelligence, NAC, ANWB)
+- **Measurable Impact:** 99% time reduction, 95%+ accuracy, cost savings, policy recommendations
+- **Stakeholder Communication:** Technical reports, presentations, documentation
+- **Domain Expertise:** Sports, agriculture, legal, policy research, media, hospitality
+
+### Innovation & Advanced Techniques
+- **Graph Theory:** NetworkX + Dijkstra's for root length measurement
+- **Explainable AI:** LIME, Grad-CAM, attention visualization
+- **Hybrid Systems:** Classical CV + Deep Learning optimal combination
+- **Legal Compliance:** EU AI Act risk assessment, GDPR implementation
+- **Multi-Modal:** Speech + Text + Vision pipelines
+- **Research Design:** Ethics review, FAIR data principles, mixed-methods
+
+---
+
+## 📊 Quantitative Achievements
+
+**Performance Metrics:**
+- 🏆 95.3% accuracy (Potato Disease - beat human baseline by 11%)
+- 🏆 95%+ accuracy (Football Analytics - prediction models)
+- 🏆 >85% IoU (Root Segmentation - research-grade)
+- 🏆 63% accuracy (French NLP - 7-class problem)
+- 🏆 80% high-risk detection (multiple projects)
+
+**Research Impact:**
+- 📊 r = 0.456 correlation (training frequency & security adherence)
+- 📊 Identified optimal training frequency for SME security
+- 📊 Evidence-based policy recommendations for cybersecurity
+
+**Efficiency Gains:**
+- ⚡ 99% time reduction (Root Segmentation: 30 min → 34 sec)
+- ⚡ 100+ images/hour throughput (automated phenotyping)
+- ⚡ <50ms inference (mobile-ready models)
+
+**Scale:**
+- 📊 16,535 player records analyzed (Football)
+- 📊 35,000 sentences processed (NLP)
+- 📊 6,000+ training patches (Root Segmentation)
+- 📊 5 combined datasets (NLP pipeline)
+- 📊 5 structured interviews + surveys (Policy Research)
+
+---
+
+## 🗂️ Repository Structure
 
 ```
-Mokhonko, A., Musaelans, A., Wang, G., Meijer, N., & Paskalev, P. (2024). 
-The Impact of Employee Cybersecurity Awareness on the Overall Security of Small Hotels. 
-Breda University of Applied Sciences.
+portfolio_projects/
+│
+├── README.md                           # This file
+│
+├── Policy_Research_for_SMEs/            # DigiWerkplaats client project
+│   ├── README.md
+│   ├── Poster.png
+│   ├── Policy_paper_Cybersecurity.pdf
+│   ├── Research_proposal.pdf
+│   ├── Future_research.pdf
+│   ├── DMP/                             # Data Management Plan
+│   │   ├── A FAIR Checklist.pdf
+│   │   ├── BUas Research Ethics.pdf
+│   │   ├── Codebook.md
+│   │   ├── Data_storage_protocol.docx
+│   │   ├── Informed Consent Form.docx
+│   │   ├── NWO_DMP_Data_Mangament_plan.pdf
+│   │   ├── Privacy and GDPR Checklist.pdf
+│   │   └── Research Information Letter.pdf
+│   └── Data/
+│       ├── Interview(audio)/            # 5 MP3 recordings
+│       ├── Interview(transcript)/       # 5 PDF transcripts
+│       ├── Analyzed_qualitative_data.pdf
+│       ├── cleaned_survey.xlsx
+│       ├── Data_preparation.ipynb
+│       └── FINAL-Cybersecurity-employee...xlsx
+│
+├── CV_RootSegmentation&RoboticControl/  # NPEC client project
+│   ├── README.md
+│   ├── data_preparation/
+│   ├── petri_dish_detection_and_extraction/
+│   ├── image_annotation/
+│   ├── plant_instance_segmentation/
+│   ├── train_and_inference/
+│   └── final_pipeline/
+│
+├── NLP_ContentIntelligenceAgency/       # Content Intelligence client project
+│   ├── README.md
+│   ├── nlp_pipeline/
+│   ├── data_preprocessing/
+│   ├── datasets/
+│   ├── models/
+│   ├── error_analysis/
+│   ├── machine_translation/
+│   ├── xai_transformers/
+│   └── presentation/
+│
+├── football-analytics/                  # NAC Breda client project
+│   ├── README.md
+│   ├── Football_Analytics_Portfolio.ipynb
+│   ├── NAC_Player_Recruitment_Report.pdf
+│   └── requirements.txt
+│
+├── ANWBSafeDrivingApplication/         # ANWB client project
+│   ├── README.md
+│   ├── Driver_Safety_Application.ipynb
+│   ├── app/
+│   ├── code/
+│   └── pdf_files/
+│
+├── potato-disease-classification/       # Agricultural AI
+│   ├── README.md
+│   ├── Potato_Disease_Classification.ipynb
+│   ├── models/
+│   └── requirements.txt
+│
+├── human-trafficking-analysis/          # Social impact dashboard
+│   ├── README.md
+│   └── Dashboard.pbix
+│
+└── Certificates/                        # Professional certifications
+    ├── Business_Intelligence/ (8 certs)
+    ├── Data_Science/ (4 certs)
+    ├── Data_Engineering/ (2 certs)
+    ├── Machine_Learning/ (2 certs)
+    ├── Data_Visualization/ (1 cert)
+    ├── Software_Engineering/ (1 cert)
+    ├── Research/ (1 cert)
+    └── Professional_Development/ (3 certs)
 ```
 
 ---
 
-**Last Updated:** October 30, 2024  
-**Version:** 1.0
+## 📈 Technical Depth by Project
+
+### Advanced Algorithms & Techniques
+
+**Research Methods:**
+- **Mixed-Methods Design:** Integrated quantitative surveys + qualitative interviews
+- **Thematic Analysis:** Systematic coding of interview transcripts
+- **Statistical Analysis:** Correlation analysis, demographic studies
+- **Ethics Compliance:** Research ethics review, GDPR, FAIR data principles
+
+**Graph Theory:**
+- **Root Segmentation:** Dijkstra's algorithm for skeleton length analysis
+- **Network Analysis:** Connected component analysis, shortest path
+
+**Explainable AI:**
+- **NLP:** LIME text explanations, attention visualization
+- **Computer Vision:** Grad-CAM heatmaps, feature attribution
+- **Transparency:** Building trust through interpretability
+
+**Hybrid Methodologies:**
+- **Root Segmentation:** Classical CV (fast) + Deep Learning (accurate)
+- **Optimal Tool Selection:** Right technique for each sub-problem
+- **Performance Optimization:** 34 sec total (1 sec CV + 30 sec DL + 3 sec graph)
+
+**Legal & Ethical AI:**
+- **EU AI Act:** Risk assessment and classification
+- **GDPR:** Data protection implementation
+- **Research Ethics:** Informed consent, anonymization, participant rights
+- **Fairness:** Bias detection and mitigation strategies
+
+**Multi-Modal Processing:**
+- **NLP Pipeline:** Video → Audio → Text → Emotion
+- **Root Segmentation:** Image → Instances → Pixels → Measurements
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science - Data Science & Artificial Intelligence**  
+Breda University of Applied Sciences (BUas), Netherlands  
+*Expected Graduation: 2026*
+
+**Focus Areas:**
+- Machine Learning & Deep Learning
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Research Methods (Mixed-Methods Design)
+- Legal & Ethical AI (EU AI Act, GDPR)
+- Production ML Systems
+
+**Notable Academic Projects:**
+- DigiWerkplaats Policy Research (Client: SME cybersecurity research)
+- NPEC Root Segmentation (Client: Netherlands Plant Eco-phenotyping Centre)
+- Content Intelligence NLP (Client: outstanding content media analytics)
+- NAC Breda Analytics (Client: Professional football club)
+- ANWB Driver Safety (Client: Royal Dutch Touring Club)
+
+---
+
+## 📬 Let's Connect
+
+**Contact Information:**
+- **Email:** Mohonko.anastasia@gmail.com
+- **LinkedIn:** [Anastasiia Mokhonko](https://www.linkedin.com/in/anastasiia-mohonko/)
+- **GitHub:** [@AnastasiiaMokhonko234301](https://github.com/AnastasiiaMokhonko234301)
+- **Location:** Breda, Netherlands
+
+---
+
+## 🌍 Languages
+
+- **English:** C1
+- **French:** B2
+- **Ukrainian:** Native
+- **Russian:** Native
+
+---
+
+## 🔗 Quick Links
+
+- [View All Projects](https://github.com/AnastasiiaMokhonko234301/portfolio_projects)
+- [Download CV/Resume](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/blob/main/Resume_Anastasiia_Mokhonko.pdf)
+- [LinkedIn Profile](https://www.linkedin.com/in/anastasiia-mohonko/)
+- [Email Me](mailto:Mohonko.anastasia@gmail.com)
+
+---
+
+**Specializations:** Machine Learning • Computer Vision • NLP • Policy Research • EU AI Act Compliance • Agricultural AI • Medical Imaging
+
+*Building AI solutions that deliver measurable impact while maintaining ethical standards, regulatory compliance, and evidence-based research practices.*
+
+---
+
+*Last Updated: October 2025*

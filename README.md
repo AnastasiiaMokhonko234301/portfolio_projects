@@ -2,261 +2,414 @@
 
 Data Science & Artificial Intelligence Student at Breda University of Applied Sciences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/anastasiia-mohonko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/AnastasiiaMokhonko234301)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:Mohonko.anastasia@gmail.com)
 
-## About Me
+---
 
-Data science professional with expertise in machine learning, computer vision, and AI ethics. Experienced in delivering production-ready solutions across diverse domains including sports analytics, agricultural AI, social impact analysis, and regulatory-compliant applications. Strong focus on combining technical excellence with real-world business impact and legal compliance.
+## 👋 About Me
 
-### Core Competencies
+Data science professional specializing in machine learning, computer vision, and NLP with proven experience delivering production-ready solutions for real clients. Demonstrated expertise across diverse domains: sports analytics, medical AI, agricultural technology, legal-compliant applications, and advanced NLP. Strong focus on combining technical excellence with measurable business impact and regulatory compliance.
 
-**Machine Learning & AI**
-- Deep Learning (CNNs, Transfer Learning, MobileNetV2)
-- Classical ML (Regression, Classification, Ensemble Methods)
-- Model Optimization (Hyperparameter Tuning, Feature Engineering)
-- Explainable AI (Grad-CAM, SHAP)
+### What Sets Me Apart
 
-**Data Engineering**
-- SQL Database Design & Optimization
-- ETL Pipelines
-- Data Preprocessing & Feature Engineering
-- Big Data Processing (16K+ records)
-
-**Technical Skills**
-- **Languages:** Python, SQL
-- **ML/DL:** TensorFlow, Keras, scikit-learn
-- **Data:** pandas, NumPy, SciPy
-- **Visualization:** matplotlib, seaborn, Power BI
-- **Deployment:** Streamlit, Flask, Docker
-
-**Specialized Knowledge**
-- EU AI Act & GDPR Compliance
-- Computer Vision for Agriculture
-- Sports Analytics
-- Social Impact Analysis
+✅ **3 Real Client Projects:** NAC Breda, ANWB, NPEC  
+✅ **Production Deployments:** Live applications with users  
+✅ **Legal Expertise:** EU AI Act & GDPR compliance  
+✅ **Research Impact:** 99% time reduction in scientific workflows  
+✅ **Advanced Techniques:** Graph theory, transformers, explainable AI  
 
 ---
 
-## Featured Projects
+## 🛠️ Core Competencies
 
-### 1. Football Player Analytics & Recruitment Optimization
-**Data-Driven Player Recruitment for NAC Breda**
+### Technical Skills
 
-End-to-end machine learning project analyzing 16,535 players across 114 performance metrics to optimize player recruitment strategies.
+**Programming & Tools**
+```
+Python        ████████████████████ 95%
+SQL           ███████████████████░ 90%
+Power BI      ████████████████░░░░ 85%
+Git           ██████████████████░░ 85%
+```
 
+**Machine Learning & AI**
+- **Supervised Learning:** Regression, Classification, Ensemble Methods (Gradient Boosting, Random Forest, SVM)
+- **Deep Learning:** CNNs, Transfer Learning (MobileNetV2), U-Net, 3D Segmentation
+- **NLP:** Transformers (CamemBERT, BERT), Machine Translation (OPUS-MT), Sentiment Analysis
+- **Unsupervised Learning:** K-Means Clustering, Dimensionality Reduction (PCA, t-SNE)
+- **Computer Vision:** Semantic Segmentation, Instance Segmentation, Object Detection
+- **Explainable AI:** LIME, Grad-CAM, Attention Visualization
+
+**Data Science Stack**
+- **Data Processing:** pandas, NumPy, SciPy, SQL
+- **ML Frameworks:** scikit-learn, TensorFlow, Keras, PyTorch
+- **NLP:** Hugging Face Transformers, spaCy, NLTK, TextBlob
+- **Computer Vision:** OpenCV, scikit-image, PIL, patchify
+- **Visualization:** matplotlib, seaborn, Plotly, Power BI
+- **Graph Analysis:** NetworkX (Dijkstra's algorithm)
+
+**Software Engineering**
+- **Version Control:** Git, GitHub, Azure DevOps
+- **Testing:** pytest, unittest (>30% code coverage)
+- **Deployment:** Streamlit, Flask, Docker
+- **Documentation:** Sphinx, Jupyter notebooks, technical writing
+- **Database:** PostgreSQL, MySQL
+- **APIs:** RESTful API development, AssemblyAI
+
+**Specialized Domains**
+- **Legal Compliance:** EU AI Act, GDPR implementation
+- **Sports Analytics:** Performance prediction, recruitment optimization  
+- **Agricultural AI:** Disease detection, phenotyping automation
+- **Media Analytics:** Emotion classification, content intelligence
+- **Time Series:** Temporal analysis and forecasting
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Plant Root Segmentation & Robotic Control (NPEC)
+**Advanced Computer Vision for Agricultural Research**
+
+Production-ready system for Netherlands Plant Eco-phenotyping Centre combining classical CV, deep learning, and graph theory for automated plant root analysis.
+
+**Client:** NPEC - Leading European plant phenotyping research facility  
+**Tech Stack:** Python, TensorFlow, U-Net, OpenCV, NetworkX  
+**Domain:** Plant Phenotyping, Agricultural Research, Robotics
+
+**Key Achievements:**
+- 🏆 **99% time reduction:** 30 minutes → 34 seconds per image
+- 🎯 **>85% IoU accuracy** for root segmentation
+- 🤖 **Robotic integration framework** for automated inoculation
+- 📊 **100+ images/hour throughput** for high-throughput phenotyping
+
+**Technical Highlights:**
+- **Hybrid Approach:** Classical CV (10-iteration pipeline) + Deep Learning (U-Net)
+- **Graph Theory:** NetworkX & Dijkstra's algorithm for accurate root length measurement
+- **Multi-Class Segmentation:** 3 plant structures (root, shoot, seed)
+- **Dataset-Adaptive:** Different preprocessing for Y2B_23 vs Y2B_24
+- **Quality Control:** 5-requirement annotation validation system
+
+**Impact:**
+- Enables NPEC's sustainable plant research mission
+- Accelerates breeding programs for climate-resilient crops
+- Supports plant-microbe interaction studies at scale
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_RootSegmentation&RoboticControl)
+
+---
+
+### 2. French Emotion Detection NLP Pipeline
+**Content Intelligence for Media Analytics**
+
+End-to-end transformer-based NLP system for analyzing emotions in French video content, combining speech-to-text, machine translation, and emotion classification.
+
+**Client:** Content Intelligence Agency  
+**Tech Stack:** CamemBERT, OPUS-MT, AssemblyAI, PyTorch, LIME  
+**Domain:** Natural Language Processing, Media Analytics
+
+**Key Achievements:**
+- 🎯 **63.09% overall accuracy** (80% for high-risk emotions)
+- 🗣️ **5.07% WER** for French speech transcription (AssemblyAI)
+- 🌍 **5 datasets combined:** 35,000 training sentences
+- 🔍 **Explainable AI:** LIME + attention visualization
+
+**Technical Highlights:**
+- **Multi-Model Pipeline:** AssemblyAI (STT) → OPUS-MT (translation) → CamemBERT (emotion)
+- **Advanced XAI:** LIME explanations + attention maps reveal model reasoning
+- **Data Engineering:** Combined Friends, GoEmotions, reality TV, synthetic datasets
+- **Class Balancing:** Contextual augmentation with CamemBERT (5,000/class)
+- **7 Emotion Categories:** Happiness (87.5% recall), neutral, surprise, anger, sadness, disgust, fear
+
+**Insights:**
+- Model excels at happiness detection but struggles with subtle negative emotions
+- Over-relies on punctuation; needs improvement on French idioms
+- Documented error patterns inform future iterations
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/NLP_ContentIntelligenceAgency)
+
+---
+
+### 3. Football Player Analytics & Recruitment Optimization
+**Data-Driven Decision Making for NAC Breda**
+
+End-to-end machine learning project analyzing 16,535 players across 114 performance metrics to optimize player recruitment strategies for professional football club.
+
+**Client:** NAC Breda (Dutch professional football club)  
 **Tech Stack:** Python, scikit-learn, pandas, matplotlib, seaborn  
 **Domain:** Sports Analytics, Predictive Modeling
 
 **Key Achievements:**
-- Built predictive models with 95%+ accuracy for goal-scoring potential
-- Analyzed market value trends and performance correlations
-- Created comprehensive data visualizations for stakeholder presentations
-- Delivered actionable insights for recruitment decisions
+- 📊 **95%+ accuracy** predicting goal-scoring potential
+- ⚽ **16,535 players analyzed** across multiple leagues
+- 📈 **114 performance metrics** processed
+- 📋 **Comprehensive report** delivered to client
 
-**Technologies:**
-- Machine Learning: Gradient Boosting, Random Forest, SVM, K-Means
-- Data Analysis: Correlation analysis, feature selection
-- Visualization: Interactive plots, heatmaps, confusion matrices
-- Optimization: Hyperparameter tuning with RandomizedSearchCV
+**Technical Highlights:**
+- **Model Comparison:** Gradient Boosting (best), Random Forest, SVM, Logistic Regression
+- **Feature Engineering:** Correlation analysis, xG metrics, performance indicators
+- **Hyperparameter Tuning:** RandomizedSearchCV optimization
+- **Business Insights:** Market value trends, age-performance curves, position analysis
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/football-analytics) | [Jupyter Notebook](link-to-notebook) | [Technical Report](link-to-report)
+**Business Impact:**
+- Identified undervalued talent in transfer market
+- Data-driven insights for recruitment decisions
+- Optimized investment in player acquisitions
 
----
-
-### 2. Human Trafficking Analysis Dashboard (UN SDG 16)
-**Power BI Dashboard for Global Trafficking Pattern Analysis**
-
-Interactive Power BI dashboard analyzing global human trafficking patterns to support UN Sustainable Development Goal 16: Peace, Justice and Strong Institutions.
-
-**Tech Stack:** Power BI, DAX, Power Query  
-**Domain:** Social Impact, Data Visualization
-
-**Key Achievements:**
-- Analyzed global distribution of trafficking victims
-- Identified demographic vulnerability patterns (age, gender)
-- Revealed regional exploitation type variations
-- Calculated 0.68 correlation between detection and temporal trends
-
-**Insights:**
-- Majority of victims aged 18-29
-- 56.9% female victims, disproportionately affected by sexual exploitation
-- Europe, Africa, and Asia show highest concentration
-- Rising detection trend indicates improved reporting or increased incidence
-
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/human-trafficking-analysis) | [Dashboard File](link-to-pbix)
-
----
-
-### 3. Potato Leaf Disease Classification
-**Deep Learning for Agricultural Disease Detection**
-
-Computer vision system using transfer learning to classify potato leaf diseases with 95.3% accuracy, surpassing human expert performance (84.3%).
-
-**Tech Stack:** TensorFlow, Keras, OpenCV, MobileNetV2  
-**Domain:** Agricultural AI, Computer Vision
-
-**Key Achievements:**
-- Achieved 95.3% classification accuracy (vs 84.3% human baseline)
-- Implemented Grad-CAM for explainable AI
-- Conducted A/B testing for user interface optimization
-- Designed mobile-ready deployment architecture
-
-**Technologies:**
-- Deep Learning: Transfer learning with MobileNetV2
-- Explainability: Grad-CAM visualizations
-- Data Augmentation: Rotation, flip, zoom, shear
-- UI/UX: Figma prototyping, user testing, A/B testing
-
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/potato-disease-classification) | [Jupyter Notebook](link-to-notebook) | [Figma Wireframe](https://www.figma.com/file/IDOfd6VpwhoPPOb2ld3uUV/Untitled?type=design&node-id=0%3A1&mode=design&t=azCDP5v6WbjgU3Lx-1)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/football-analytics)
 
 ---
 
 ### 4. Driver Safety & Route Optimization (Straat-o-sfeer)
 **EU AI Act Compliant Road Safety Application**
 
-Production-ready Streamlit application predicting street-level risk and providing intelligent routing recommendations with full EU legal compliance.
+Production-ready Streamlit application for ANWB predicting street-level risk and providing intelligent routing recommendations with full EU legal compliance.
 
+**Client:** ANWB (Dutch automobile association)  
 **Tech Stack:** Python, Streamlit, PostgreSQL, Flask, scikit-learn  
 **Domain:** Smart Mobility, Regulatory Compliance
 
 **Key Achievements:**
-- Classified as Limited Risk under EU AI Act
-- Implemented GDPR-compliant data handling
-- Achieved 80% accuracy for high-risk area detection
-- Deployed production application with >30% test coverage
+- ⚖️ **EU AI Act Compliant:** Limited Risk classification with full documentation
+- 🔒 **GDPR Implementation:** Led data protection compliance
+- 📍 **80% accuracy** for high-risk area detection
+- ✅ **>30% test coverage** with comprehensive unit testing
 
-**Technologies:**
-- Database: PostgreSQL with advanced SQL views
-- ML Model: Logistic Regression with weather integration
-- Deployment: Streamlit + Flask
-- Security: hashlib encryption, environment variables
-- Testing: pytest with comprehensive unit tests
+**Technical Highlights:**
+- **Full-Stack Application:** SQL database → ML model → Streamlit UI
+- **Legal Framework:** EU AI Act risk assessment, GDPR data handling
+- **ML Model:** Logistic Regression with weather data integration
+- **Security:** hashlib encryption, environment variables
+- **Production:** Live deployment with Poetry dependency management
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ANWBSafeDrivingApplication) | [Live Demo](link-if-deployed) | [Documentation](link-to-docs)
+**My Role:**
+- GDPR compliance section lead
+- Database design and ETL pipeline
+- Preprocessing and feature engineering
+- Team collaboration (Team 17)
 
----
-
-## Technical Skills
-
-### Programming & Tools
-```
-Python        ████████████████████ 95%
-SQL           ███████████████████░ 90%
-Git           ██████████████████░░ 85%
-Power BI      ████████████████░░░░ 80%
-```
-
-### Machine Learning
-- **Supervised Learning:** Regression, Classification, Ensemble Methods
-- **Deep Learning:** CNNs, Transfer Learning, 3D U-Net
-- **Unsupervised Learning:** K-Means Clustering
-- **Model Optimization:** GridSearchCV, RandomizedSearchCV, Cross-validation
-- **Medical Imaging:** 3D segmentation, NRRD processing
-
-### Data Science Stack
-- **Data Processing:** pandas, NumPy, SciPy
-- **ML Frameworks:** scikit-learn, TensorFlow, Keras, PyTorch
-- **Visualization:** matplotlib, seaborn, Plotly, Power BI
-- **Medical Imaging:** SimpleITK, 3D Slicer, MeshLab
-- **Image Processing:** OpenCV, scikit-image, PIL
-
-### Software Engineering
-- **Version Control:** Git, GitHub, Azure DevOps
-- **Deployment:** Streamlit, Flask, Docker
-- **Testing:** pytest, unittest (>30% coverage)
-- **Documentation:** Sphinx, Jupyter notebooks
-- **Database:** PostgreSQL, MySQL
-
-### Domain Expertise
-- **Medical AI:** CT scan analysis, surgical planning, clinical validation
-- **Legal Compliance:** EU AI Act, GDPR
-- **Sports Analytics:** Performance prediction, recruitment optimization
-- **Computer Vision:** Image classification, object detection, explainability
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ANWBSafeDrivingApplication)
 
 ---
 
-## Project Highlights by Category
+### 5. Potato Leaf Disease Classification
+**Deep Learning for Agricultural Disease Detection**
 
-### Production-Ready Applications
-1. **Driver Safety App** - Live Streamlit deployment with Flask backend
-2. **Potato Disease Classifier** - Mobile-ready model (24.7 MB, <50ms inference)
+Computer vision system using transfer learning to classify potato leaf diseases with 95.3% accuracy, surpassing human expert performance.
 
-### Client Work
-1. **Football Analytics** - Consultancy for NAC Breda
-2. **Driver Safety App** - ANWB road safety optimization
+**Tech Stack:** TensorFlow, Keras, MobileNetV2, OpenCV, Grad-CAM  
+**Domain:** Agricultural AI, Computer Vision, Explainable AI
 
-### Research & Social Impact
-1. **Human Trafficking Dashboard** - UN SDG 16 analysis
-2. **Agricultural AI** - Sustainable farming solution
+**Key Achievements:**
+- 🏆 **95.3% accuracy** (vs 84.3% human expert baseline)
+- 🔬 **Grad-CAM visualization** for model interpretability
+- 📱 **Mobile-ready:** 24.7 MB model, <50ms inference
+- 🎨 **User-tested:** A/B testing + Figma prototyping
 
-### Technical Complexity
-1. **3D Medical Imaging** - Advanced segmentation pipeline
-2. **Deep Learning** - Transfer learning, custom architectures
-3. **Full-Stack Development** - SQL to deployment
+**Technical Highlights:**
+- **Transfer Learning:** MobileNetV2 pre-trained on ImageNet
+- **4 Model Iterations:** Basic CNN → BatchNorm → Transfer Learning → Final (95.3%)
+- **Data Augmentation:** Rotation, flip, zoom, shear transformations
+- **Explainable AI:** Grad-CAM shows model focuses on disease lesions
+- **Fairness Analysis:** Addressed sampling, label, and measurement bias
 
----
+**Solution: "Farmer's Buddy"**
+- Real-time disease detection from smartphone photos
+- Treatment recommendations for blight types
+- Health monitoring dashboard
 
-## Education
-
-**Bachelor of Science - Data Science & Artificial Intelligence**  
-Breda University of Applied Sciences (BUas), Netherlands  
-*Focus: Machine Learning, Computer Vision, Medical AI, Legal & Ethical AI*
-
-### Notable Projects
-- **NAC Breda Analytics** (Client consultancy)
-- **EU AI Act Compliance** (Production application)
-- **Agricultural AI** (Transfer learning, 95%+ accuracy)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/potato-disease-classification)
 
 ---
 
-## Certifications & Achievements
+### 6. Human Trafficking Analysis Dashboard (UN SDG 16)
+**Power BI Analytics for Social Impact**
 
-- **Medical AI:** 3D U-Net implementation for surgical planning
-- **Legal Compliance:** EU AI Act risk assessment certification
-- **Deep Learning:** TensorFlow/Keras advanced applications
-- **Data Visualization:** Power BI dashboard development
-- **Production Deployment:** Streamlit + Flask applications
+Interactive dashboard analyzing global human trafficking patterns to support UN Sustainable Development Goal 16: Peace, Justice and Strong Institutions.
+
+**Tech Stack:** Power BI, DAX, Power Query  
+**Domain:** Social Impact, Data Visualization
+
+**Key Achievements:**
+- 🌍 **Global analysis** of trafficking victims by region
+- 📊 **Demographic insights:** Age, gender vulnerability patterns
+- 📈 **0.68 correlation** between detection and temporal trends
+- 🎯 **UN SDG 16** alignment for policy impact
+
+**Insights Delivered:**
+- **Demographics:** 56.9% female victims, 18-29 age range most affected
+- **Regional Patterns:** Europe, Africa, Asia show highest concentrations
+- **Exploitation Types:** Sexual exploitation disproportionately affects females
+- **Trends:** Rising detection indicates improved reporting or increased incidence
+
+**Visualizations:**
+- Interactive geographic map
+- Time-series trend analysis
+- Demographic breakdowns
+- Exploitation type by region
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/human-trafficking-analysis)
 
 ---
 
-## Work Approach
+## 📜 Certifications
+
+### DataCamp Professional Certificates (60+ hours)
+
+**Business Intelligence & Analytics (24 hours) - Complete Track ⭐**
+- Introduction to Power BI
+- Data Preparation in Power BI
+- Data Visualization in Power BI
+- Exploratory Data Analysis in Power BI
+- Data Modeling in Power BI
+- Case Study: Analyzing Customer Churn in Power BI
+- Report Design in Power BI
+- User-Oriented Design in Power BI
+
+**Data Science & Time Series (15+ hours)**
+- Introduction to SQL
+- Time Series Analysis in Python
+- Manipulating Time Series Data in Python
+- Visualizing Time Series Data in Python
+
+**Data Engineering (7 hours)**
+- Data Manipulation with pandas (4 hours)
+- Introduction to Importing Data in Python (3 hours)
+
+**Machine Learning (6 hours)**
+- Understanding Machine Learning (2 hours)
+- Dimensionality Reduction in Python (4 hours)
+
+**Technical Skills (8 hours)**
+- Unit Testing for Data Science in Python (4 hours)
+- Introduction to Data Visualization with Matplotlib (4 hours)
+
+**Research & Professional Development**
+- Academic Research Foundations: Quantitative
+- Professional Skills: Resume Writing, Mental Health, Stress Management
+
+---
+
+**Total:** 22 certificates | 60+ hours of structured learning  
+**Platform:** DataCamp  
+**Completion Period:** September 2023 - January 2024
+
+---
+
+## 💼 Project Portfolio Summary
+
+### By Domain
+
+**Client Projects (3)**
+1. **NPEC** - Plant Root Segmentation (99% time reduction)
+2. **NAC Breda** - Football Analytics (95%+ accuracy)
+3. **ANWB** - Driver Safety App (EU AI Act compliant)
+
+**Research Projects (2)**
+1. **Agricultural AI** - Potato Disease Classification (95.3% accuracy)
+2. **Social Impact** - Human Trafficking Analysis (UN SDG 16)
+
+**Advanced NLP (1)**
+1. **Content Intelligence** - French Emotion Detection (63% accuracy, 80% high-risk)
+
+### By Technical Approach
+
+| Approach | Projects | Key Technologies |
+|----------|----------|------------------|
+| **Deep Learning** | Potato Disease, Root Segmentation | U-Net, MobileNetV2, Transfer Learning |
+| **Classical ML** | Football Analytics, Driver Safety | Gradient Boosting, Logistic Regression |
+| **Computer Vision** | Root Segmentation, Potato Disease | OpenCV, Morphological Ops, Segmentation |
+| **NLP/Transformers** | French Emotion Detection | CamemBERT, OPUS-MT, AssemblyAI |
+| **Business Intelligence** | Human Trafficking, Football | Power BI, DAX, Statistical Analysis |
+| **Full-Stack** | Driver Safety | Streamlit, Flask, PostgreSQL |
+
+---
+
+## 🎯 Skills Demonstrated Across Projects
 
 ### Technical Excellence
-- Clean, documented, PEP 8 compliant code
-- Comprehensive testing (unit, integration, end-to-end)
-- Version control and reproducible research
-- Industry-standard tools and practices
+- **Multiple ML Paradigms:** Classical ML, Deep Learning, NLP, Computer Vision
+- **Production Quality:** Clean code, documentation
+- **Performance Optimization:** GPU acceleration, batch processing, efficient algorithms
+- **Model Evaluation:** Comprehensive metrics, error analysis
 
-### Business Value
-- Focus on measurable impact and ROI
-- Stakeholder communication and presentations
-- Client-focused deliverables
-- Practical, deployable solutions
+### Business & Research Value
+- **Client Delivery:** Real client projects (NPEC, NAC, ANWB)
+- **Measurable Impact:** 99% time reduction, 95%+ accuracy, cost savings
+- **Stakeholder Communication:** Technical reports, presentations, documentation
+- **Domain Expertise:** Sports, agriculture, legal, healthcare, media
 
-### Ethics & Compliance
-- GDPR data protection implementation
-- EU AI Act risk assessment and compliance
-- Fairness and bias monitoring
-- Transparent, explainable AI
+### Innovation & Advanced Techniques
+- **Graph Theory:** NetworkX + Dijkstra's for root length measurement
+- **Explainable AI:** LIME, Grad-CAM, attention visualization
+- **Hybrid Systems:** Classical CV + Deep Learning optimal combination
+- **Legal Compliance:** EU AI Act risk assessment, GDPR implementation
+- **Multi-Modal:** Speech + Text + Vision pipelines
 
 ---
 
-## Repository Structure
+## 📊 Quantitative Achievements
+
+**Performance Metrics:**
+- 🏆 95.3% accuracy (Potato Disease - beat human baseline by 11%)
+- 🏆 95%+ accuracy (Football Analytics - prediction models)
+- 🏆 >85% IoU (Root Segmentation - research-grade)
+- 🏆 63% accuracy (French NLP - 7-class problem)
+- 🏆 80% high-risk detection (multiple projects)
+
+**Efficiency Gains:**
+- ⚡ 99% time reduction (Root Segmentation: 30 min → 34 sec)
+- ⚡ 100+ images/hour throughput (automated phenotyping)
+- ⚡ <50ms inference (mobile-ready models)
+
+**Scale:**
+- 📊 16,535 player records analyzed (Football)
+- 📊 35,000 sentences processed (NLP)
+- 📊 6,000+ training patches (Root Segmentation)
+- 📊 5 combined datasets (NLP pipeline)
+
+---
+
+## 🗂️ Repository Structure
 
 ```
 portfolio_projects/
 │
-├── football-analytics/                  # Sports analytics
+├── README.md                           # This file
+│
+├── CV_RootSegmentation&RoboticControl/  # NPEC client project
+│   ├── README.md
+│   ├── data_preparation/
+│   ├── petri_dish_detection_and_extraction/
+│   ├── image_annotation/
+│   ├── plant_instance_segmentation/
+│   ├── train_and_inference/
+│   └── final_pipeline/
+│
+├── NLP_ContentIntelligenceAgency/       # Content Intelligence project
+│   ├── README.md
+│   ├── nlp_pipeline/
+│   ├── data_preprocessing/
+│   ├── datasets/
+│   ├── models/
+│   ├── error_analysis/
+│   ├── machine_translation/
+│   ├── xai_transformers/
+│   └── presentation/
+│
+├── football-analytics/                  # NAC Breda consultancy
 │   ├── README.md
 │   ├── Football_Analytics_Portfolio.ipynb
 │   ├── NAC_Player_Recruitment_Report.pdf
 │   └── requirements.txt
 │
-├── human-trafficking-analysis/          # Power BI dashboard
+├── ANWBSafeDrivingApplication/         # ANWB driver safety app
 │   ├── README.md
-│   └── Dashboard.pbix
+│   ├── Driver_Safety_Application.ipynb
+│   ├── app/
+│   ├── code/
+│   └── pdf_files/
 │
 ├── potato-disease-classification/       # Agricultural AI
 │   ├── README.md
@@ -264,59 +417,105 @@ portfolio_projects/
 │   ├── models/
 │   └── requirements.txt
 │
-└── ANWBSafeDrivingApplication/         # Driver safety app
-    ├── README.md
-    ├── Driver_Safety_Application.ipynb
-    ├── app/
-    ├── code/
-    └── pdf_files/
+├── human-trafficking-analysis/          # Social impact dashboard
+│   ├── README.md
+│   └── Dashboard.pbix
+│
+└── Certificates/                        # Professional certifications
+    ├── Business_Intelligence/ (8 certs)
+    ├── Data_Science/ (4 certs)
+    ├── Data_Engineering/ (2 certs)
+    ├── Machine_Learning/ (2 certs)
+    ├── Data_Visualization/ (1 cert)
+    ├── Software_Engineering/ (1 cert)
+    ├── Research/ (1 cert)
+    └── Professional_Development/ (3 certs)
 ```
 
 ---
 
-## Contact
+## 📈 Technical Depth by Project
 
-I'm open to opportunities in:
-- Data Science & Machine Learning roles
-- AI Research & Development
-- Medical AI & Healthcare Analytics
-- Computer Vision applications
-- Full-Stack ML Engineering
+### Advanced Algorithms & Techniques
 
-**Let's connect:**
+**Graph Theory:**
+- **Root Segmentation:** Dijkstra's algorithm for skeleton length analysis
+- **Network Analysis:** Connected component analysis, shortest path
+
+**Explainable AI:**
+- **NLP:** LIME text explanations, attention visualization
+- **Computer Vision:** Grad-CAM heatmaps, feature attribution
+- **Transparency:** Building trust through interpretability
+
+**Hybrid Methodologies:**
+- **Root Segmentation:** Classical CV (fast) + Deep Learning (accurate)
+- **Optimal Tool Selection:** Right technique for each sub-problem
+- **Performance Optimization:** 34 sec total (1 sec CV + 30 sec DL + 3 sec graph)
+
+**Legal & Ethical AI:**
+- **EU AI Act:** Risk assessment and classification
+- **GDPR:** Data protection implementation
+- **Fairness:** Bias detection and mitigation strategies
+
+**Multi-Modal Processing:**
+- **NLP Pipeline:** Video → Audio → Text → Emotion
+- **Root Segmentation:** Image → Instances → Pixels → Measurements
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science - Data Science & Artificial Intelligence**  
+Breda University of Applied Sciences (BUas), Netherlands  
+*Expected Graduation: 2026*
+
+**Focus Areas:**
+- Machine Learning & Deep Learning
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Legal & Ethical AI (EU AI Act, GDPR)
+- Production ML Systems
+
+**Notable Academic Projects:**
+- NPEC Root Segmentation (Client: Netherlands Plant Eco-phenotyping Centre)
+- NAC Breda Analytics (Client: Professional football club)
+- ANWB Driver Safety (Client: Dutch automobile association)
+- Content Intelligence NLP (Advanced transformers & XAI)
+
+---
+
+## 📬 Let's Connect
+
+**Contact Information:**
 - **Email:** Mohonko.anastasia@gmail.com
-- **LinkedIn:** [Anastasiia Mokhonko](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- **LinkedIn:** [Anastasiia Mokhonko](https://www.linkedin.com/in/anastasiia-mohonko/)
 - **GitHub:** [@AnastasiiaMokhonko234301](https://github.com/AnastasiiaMokhonko234301)
 - **Location:** Breda, Netherlands
 
 ---
 
-## Current Focus
+## 🌍 Languages
 
-**Active Project:** SPECIFIX - Medical image segmentation for surgical planning  
-**Learning:** Advanced medical imaging techniques, clinical validation protocols  
-**Exploring:** Deep learning optimization for medical applications
-
----
-
-## Languages
-
-- **English:** Professional working proficiency
-- **Dutch:** Elementary proficiency
+- **English:** C1
+- **French:** B2
+- **Ukrainian:** Native
 - **Russian:** Native
 
 ---
 
-*Last Updated: January 2024*
+## 🔗 Quick Links
+
+- [View All Projects](https://github.com/AnastasiiaMokhonko234301/portfolio_projects)
+- [Download CV/Resume](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/blob/main/Resume_Anastasiia_Mokhonko.pdf)
+- [LinkedIn Profile](https://www.linkedin.com/in/anastasiia-mohonko/)
+- [Email Me](mailto:Mohonko.anastasia@gmail.com)
 
 ---
 
-## Quick Links
+**Specializations:** Machine Learning • Computer Vision • NLP • EU AI Act Compliance • Agricultural AI • Medical Imaging
 
-- [View All Projects](https://github.com/AnastasiiaMokhonko234301/portfolio_projects)
-- [Download Resume](link-to-resume)
-- [Schedule a Call](link-to-calendar)
+*Building AI solutions that deliver measurable impact while maintaining ethical standards and regulatory compliance.*
 
-**Specializing in:** Machine Learning • Computer Vision • Medical AI • Data Analytics • EU AI Act Compliance
+---
 
-*Building AI solutions that deliver real-world impact while maintaining ethical standards and regulatory compliance.*
+*Last Updated: October 2025*
