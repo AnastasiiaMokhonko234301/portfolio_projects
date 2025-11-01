@@ -513,7 +513,7 @@ This project is for educational and demonstration purposes.
 **Anastasiia Mokhonko**
 
 - GitHub: [@AnastasiiaMokhonko234301](https://github.com/AnastasiiaMokhonko234301)
-- LinkedIn: [Anastasiia Mokhonko](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- LinkedIn: [Anastasiia Mokhonko](https://www.linkedin.com/in/anastasiia-mohonko/)
 - Email: Mohonko.anastasia@gmail.com
 
 **Team Members:**
@@ -536,7 +536,7 @@ Breda University of Applied Sciences
 
 For questions, collaboration, or deployment opportunities:
 - Email: Mohonko.anastasia@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/anastasiia-mohonko/)
 
 ---
 

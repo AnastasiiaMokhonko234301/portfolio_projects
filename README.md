@@ -2,7 +2,7 @@
 
 Data Science & Artificial Intelligence Student at Breda University of Applied Sciences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/anastasiia-mohonko/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/AnastasiiaMokhonko234301)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:Mohonko.anastasia@gmail.com)
 
@@ -10,15 +10,11 @@ Data Science & Artificial Intelligence Student at Breda University of Applied Sc
 
 ## 👋 About Me
 
-Data science professional specializing in machine learning, computer vision, and NLP with proven experience delivering production-ready solutions for real clients. Demonstrated expertise across diverse domains: sports analytics, medical AI, agricultural technology, legal-compliant applications, and advanced NLP. Strong focus on combining technical excellence with measurable business impact and regulatory compliance.
+Data science professional specializing in machine learning, computer vision, and NLP with proven experience delivering production-ready solutions for real clients. Demonstrated expertise across diverse domains: sports analytics, medical AI, agricultural technology, legal-compliant applications, advanced NLP, and policy research. Strong focus on combining technical excellence with measurable business impact, regulatory compliance, and evidence-based policy recommendations.
 
 ### What Sets Me Apart
 
-✅ **3 Real Client Projects:** NAC Breda, ANWB, NPEC  
-✅ **Production Deployments:** Live applications with users  
-✅ **Legal Expertise:** EU AI Act & GDPR compliance  
-✅ **Research Impact:** 99% time reduction in scientific workflows  
-✅ **Advanced Techniques:** Graph theory, transformers, explainable AI  
+✅ **5 Real Client Projects:** NPEC, NAC Breda, ANWB, Content Intelligence, DigiWerkplaats   
 
 ---
 
@@ -50,6 +46,12 @@ Git           ██████████████████░░ 85%
 - **Visualization:** matplotlib, seaborn, Plotly, Power BI
 - **Graph Analysis:** NetworkX (Dijkstra's algorithm)
 
+**Research Methods**
+- **Quantitative:** Survey design, statistical analysis, correlation analysis
+- **Qualitative:** Structured interviews, thematic coding, content analysis
+- **Mixed-Methods:** Integration of quantitative and qualitative data
+- **Ethics & Compliance:** GDPR, FAIR data principles, research ethics review
+
 **Software Engineering**
 - **Version Control:** Git, GitHub, Azure DevOps
 - **Testing:** pytest, unittest (>30% code coverage)
@@ -63,13 +65,56 @@ Git           ██████████████████░░ 85%
 - **Sports Analytics:** Performance prediction, recruitment optimization  
 - **Agricultural AI:** Disease detection, phenotyping automation
 - **Media Analytics:** Emotion classification, content intelligence
+- **Policy Research:** Cybersecurity awareness, SME security posture
 - **Time Series:** Temporal analysis and forecasting
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Plant Root Segmentation & Robotic Control (NPEC)
+### 1. Cybersecurity Awareness Policy Research (DigiWerkplaats)
+**Mixed-Methods Research for Small Hotel Security**
+
+Comprehensive policy research project investigating how employee cybersecurity awareness impacts security posture in small hotels, delivering evidence-based recommendations to improve SME cybersecurity practices.
+
+**Client:** DigiWerkplaats Breda - Digital innovation hub for SMEs  
+**Research Partner:** Breda University of Applied Sciences  
+**Duration:** September - November 2024  
+**Domain:** Policy Research, Cybersecurity, Hospitality Industry
+
+**Key Achievements:**
+- 📊 **Moderate positive correlation (r = 0.456)** between training frequency and adherence
+- 🎯 **Optimal training frequency identified:** Quarterly or biannual sessions
+- 📋 **Evidence-based policy recommendations** for small hotel cybersecurity
+- ⚖️ **Full GDPR compliance** with comprehensive ethics review
+- 🔬 **Mixed-methods approach:** Quantitative surveys + qualitative interviews
+
+**Research Highlights:**
+- **Ethics & Compliance:** BUas Research Ethics Board approval, GDPR checklist, FAIR data principles
+- **Quantitative Analysis:** Online surveys via Qualtrics, Python statistical analysis, correlation studies
+- **Qualitative Analysis:** 5 structured interviews, AI-powered transcription, thematic coding
+- **Data Management:** NWO Data Management Plan, 10-year retention, institutional storage
+- **Key Finding:** No significant age differences in awareness - supports universal training programs
+
+**Impact:**
+- Informs DigiWerkplaats SME cybersecurity initiatives
+- Evidence-based training frequency recommendations
+- Role-specific security protocol development
+- Policy framework for small hospitality businesses
+
+**Documentation:**
+- Research proposal with literature review
+- Data Management Plan with GDPR compliance
+- Codebook with 22 quantitative + 9 qualitative variables
+- Informed consent forms and ethics approval
+- Policy paper with actionable recommendations
+- Research poster for stakeholder presentation
+
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/Policy_Research_for_SMEs)
+
+---
+
+### 2. Plant Root Segmentation & Robotic Control (NPEC)
 **Advanced Computer Vision for Agricultural Research**
 
 Production-ready system for Netherlands Plant Eco-phenotyping Centre combining classical CV, deep learning, and graph theory for automated plant root analysis.
@@ -96,16 +141,16 @@ Production-ready system for Netherlands Plant Eco-phenotyping Centre combining c
 - Accelerates breeding programs for climate-resilient crops
 - Supports plant-microbe interaction studies at scale
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_RootSegmentation&RoboticControl)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_RootSegmentation%26RoboticControl)
 
 ---
 
-### 2. French Emotion Detection NLP Pipeline
+### 3. French Emotion Detection NLP Pipeline (Content Intelligence)
 **Content Intelligence for Media Analytics**
 
 End-to-end transformer-based NLP system for analyzing emotions in French video content, combining speech-to-text, machine translation, and emotion classification.
 
-**Client:** Content Intelligence Agency  
+**Client:** Content Intelligence (outstanding content) - Media analytics agency  
 **Tech Stack:** CamemBERT, OPUS-MT, AssemblyAI, PyTorch, LIME  
 **Domain:** Natural Language Processing, Media Analytics
 
@@ -131,12 +176,12 @@ End-to-end transformer-based NLP system for analyzing emotions in French video c
 
 ---
 
-### 3. Football Player Analytics & Recruitment Optimization
-**Data-Driven Decision Making for NAC Breda**
+### 4. Football Player Analytics & Recruitment Optimization (NAC Breda)
+**Data-Driven Decision Making for Professional Football**
 
 End-to-end machine learning project analyzing 16,535 players across 114 performance metrics to optimize player recruitment strategies for professional football club.
 
-**Client:** NAC Breda (Dutch professional football club)  
+**Client:** NAC Breda - Dutch professional football club (Eerste Divisie)  
 **Tech Stack:** Python, scikit-learn, pandas, matplotlib, seaborn  
 **Domain:** Sports Analytics, Predictive Modeling
 
@@ -157,16 +202,16 @@ End-to-end machine learning project analyzing 16,535 players across 114 performa
 - Data-driven insights for recruitment decisions
 - Optimized investment in player acquisitions
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/football-analytics)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ML_GoalPrediction_NAC)
 
 ---
 
-### 4. Driver Safety & Route Optimization (Straat-o-sfeer)
+### 5. Driver Safety & Route Optimization (ANWB - Straat-o-sfeer)
 **EU AI Act Compliant Road Safety Application**
 
 Production-ready Streamlit application for ANWB predicting street-level risk and providing intelligent routing recommendations with full EU legal compliance.
 
-**Client:** ANWB (Dutch automobile association)  
+**Client:** ANWB - Royal Dutch Touring Club (automobile association)  
 **Tech Stack:** Python, Streamlit, PostgreSQL, Flask, scikit-learn  
 **Domain:** Smart Mobility, Regulatory Compliance
 
@@ -189,11 +234,11 @@ Production-ready Streamlit application for ANWB predicting street-level risk and
 - Preprocessing and feature engineering
 - Team collaboration (Team 17)
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ANWBSafeDrivingApplication)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/ML_ANWB)
 
 ---
 
-### 5. Potato Leaf Disease Classification
+### 6. Potato Leaf Disease Classification
 **Deep Learning for Agricultural Disease Detection**
 
 Computer vision system using transfer learning to classify potato leaf diseases with 95.3% accuracy, surpassing human expert performance.
@@ -219,11 +264,11 @@ Computer vision system using transfer learning to classify potato leaf diseases 
 - Treatment recommendations for blight types
 - Health monitoring dashboard
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/potato-disease-classification)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/CV_FarmersBuddy)
 
 ---
 
-### 6. Human Trafficking Analysis Dashboard (UN SDG 16)
+### 7. Human Trafficking Analysis Dashboard (UN SDG 16)
 **Power BI Analytics for Social Impact**
 
 Interactive dashboard analyzing global human trafficking patterns to support UN Sustainable Development Goal 16: Peace, Justice and Strong Institutions.
@@ -249,7 +294,7 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 - Demographic breakdowns
 - Exploitation type by region
 
-[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/human-trafficking-analysis)
+[View Project](https://github.com/AnastasiiaMokhonko234301/portfolio_projects/tree/main/Human_Trafficking_Data_Analysis_(SDG16))
 
 ---
 
@@ -257,7 +302,7 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 
 ### DataCamp Professional Certificates (60+ hours)
 
-**Business Intelligence & Analytics (24 hours) - Complete Track ⭐**
+**Business Intelligence & Analytics - Complete Track ⭐**
 - Introduction to Power BI
 - Data Preparation in Power BI
 - Data Visualization in Power BI
@@ -267,23 +312,23 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 - Report Design in Power BI
 - User-Oriented Design in Power BI
 
-**Data Science & Time Series (15+ hours)**
+**Data Science & Time Series**
 - Introduction to SQL
 - Time Series Analysis in Python
 - Manipulating Time Series Data in Python
 - Visualizing Time Series Data in Python
 
-**Data Engineering (7 hours)**
-- Data Manipulation with pandas (4 hours)
-- Introduction to Importing Data in Python (3 hours)
+**Data Engineering**
+- Data Manipulation with pandas
+- Introduction to Importing Data in Python
 
-**Machine Learning (6 hours)**
-- Understanding Machine Learning (2 hours)
-- Dimensionality Reduction in Python (4 hours)
+**Machine Learning**
+- Understanding Machine Learning
+- Dimensionality Reduction in Python
 
-**Technical Skills (8 hours)**
-- Unit Testing for Data Science in Python (4 hours)
-- Introduction to Data Visualization with Matplotlib (4 hours)
+**Technical Skills**
+- Unit Testing for Data Science in Python
+- Introduction to Data Visualization with Matplotlib
 
 **Research & Professional Development**
 - Academic Research Foundations: Quantitative
@@ -292,31 +337,29 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 ---
 
 **Total:** 22 certificates | 60+ hours of structured learning  
-**Platform:** DataCamp  
-**Completion Period:** September 2023 - January 2024
-
+ 
 ---
 
 ## 💼 Project Portfolio Summary
 
 ### By Domain
 
-**Client Projects (3)**
-1. **NPEC** - Plant Root Segmentation (99% time reduction)
-2. **NAC Breda** - Football Analytics (95%+ accuracy)
-3. **ANWB** - Driver Safety App (EU AI Act compliant)
+**Client Projects (5)**
+1. **DigiWerkplaats** - Cybersecurity Policy Research
+2. **NPEC** - Plant Root Segmentation
+3. **Content Intelligence** - French Emotion Detection
+4. **NAC Breda** - Football Analytics
+5. **ANWB** - Driver Safety App 
 
 **Research Projects (2)**
-1. **Agricultural AI** - Potato Disease Classification (95.3% accuracy)
+1. **Agricultural AI** - Potato Disease Classification
 2. **Social Impact** - Human Trafficking Analysis (UN SDG 16)
-
-**Advanced NLP (1)**
-1. **Content Intelligence** - French Emotion Detection (63% accuracy, 80% high-risk)
 
 ### By Technical Approach
 
 | Approach | Projects | Key Technologies |
 |----------|----------|------------------|
+| **Research Methods** | Cybersecurity Policy | Qualtrics, Python, Mixed-Methods, Thematic Analysis |
 | **Deep Learning** | Potato Disease, Root Segmentation | U-Net, MobileNetV2, Transfer Learning |
 | **Classical ML** | Football Analytics, Driver Safety | Gradient Boosting, Logistic Regression |
 | **Computer Vision** | Root Segmentation, Potato Disease | OpenCV, Morphological Ops, Segmentation |
@@ -330,15 +373,16 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 
 ### Technical Excellence
 - **Multiple ML Paradigms:** Classical ML, Deep Learning, NLP, Computer Vision
-- **Production Quality:** Clean code, documentation
+- **Research Methods:** Mixed-methods design, qualitative & quantitative analysis
+- **Production Quality:** Clean code, documentation, ethics compliance
 - **Performance Optimization:** GPU acceleration, batch processing, efficient algorithms
 - **Model Evaluation:** Comprehensive metrics, error analysis
 
 ### Business & Research Value
-- **Client Delivery:** Real client projects (NPEC, NAC, ANWB)
-- **Measurable Impact:** 99% time reduction, 95%+ accuracy, cost savings
+- **Client Delivery:** Real client projects (DigiWerkplaats, NPEC, Content Intelligence, NAC, ANWB)
+- **Measurable Impact:** 99% time reduction, 95%+ accuracy, cost savings, policy recommendations
 - **Stakeholder Communication:** Technical reports, presentations, documentation
-- **Domain Expertise:** Sports, agriculture, legal, healthcare, media
+- **Domain Expertise:** Sports, agriculture, legal, policy research, media, hospitality
 
 ### Innovation & Advanced Techniques
 - **Graph Theory:** NetworkX + Dijkstra's for root length measurement
@@ -346,6 +390,7 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 - **Hybrid Systems:** Classical CV + Deep Learning optimal combination
 - **Legal Compliance:** EU AI Act risk assessment, GDPR implementation
 - **Multi-Modal:** Speech + Text + Vision pipelines
+- **Research Design:** Ethics review, FAIR data principles, mixed-methods
 
 ---
 
@@ -358,6 +403,11 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 - 🏆 63% accuracy (French NLP - 7-class problem)
 - 🏆 80% high-risk detection (multiple projects)
 
+**Research Impact:**
+- 📊 r = 0.456 correlation (training frequency & security adherence)
+- 📊 Identified optimal training frequency for SME security
+- 📊 Evidence-based policy recommendations for cybersecurity
+
 **Efficiency Gains:**
 - ⚡ 99% time reduction (Root Segmentation: 30 min → 34 sec)
 - ⚡ 100+ images/hour throughput (automated phenotyping)
@@ -368,6 +418,7 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 - 📊 35,000 sentences processed (NLP)
 - 📊 6,000+ training patches (Root Segmentation)
 - 📊 5 combined datasets (NLP pipeline)
+- 📊 5 structured interviews + surveys (Policy Research)
 
 ---
 
@@ -378,6 +429,29 @@ portfolio_projects/
 │
 ├── README.md                           # This file
 │
+├── Policy_Research_for_SMEs/            # DigiWerkplaats client project
+│   ├── README.md
+│   ├── Poster.png
+│   ├── Policy_paper_Cybersecurity.pdf
+│   ├── Research_proposal.pdf
+│   ├── Future_research.pdf
+│   ├── DMP/                             # Data Management Plan
+│   │   ├── A FAIR Checklist.pdf
+│   │   ├── BUas Research Ethics.pdf
+│   │   ├── Codebook.md
+│   │   ├── Data_storage_protocol.docx
+│   │   ├── Informed Consent Form.docx
+│   │   ├── NWO_DMP_Data_Mangament_plan.pdf
+│   │   ├── Privacy and GDPR Checklist.pdf
+│   │   └── Research Information Letter.pdf
+│   └── Data/
+│       ├── Interview(audio)/            # 5 MP3 recordings
+│       ├── Interview(transcript)/       # 5 PDF transcripts
+│       ├── Analyzed_qualitative_data.pdf
+│       ├── cleaned_survey.xlsx
+│       ├── Data_preparation.ipynb
+│       └── FINAL-Cybersecurity-employee...xlsx
+│
 ├── CV_RootSegmentation&RoboticControl/  # NPEC client project
 │   ├── README.md
 │   ├── data_preparation/
@@ -387,7 +461,7 @@ portfolio_projects/
 │   ├── train_and_inference/
 │   └── final_pipeline/
 │
-├── NLP_ContentIntelligenceAgency/       # Content Intelligence project
+├── NLP_ContentIntelligenceAgency/       # Content Intelligence client project
 │   ├── README.md
 │   ├── nlp_pipeline/
 │   ├── data_preprocessing/
@@ -398,13 +472,13 @@ portfolio_projects/
 │   ├── xai_transformers/
 │   └── presentation/
 │
-├── football-analytics/                  # NAC Breda consultancy
+├── football-analytics/                  # NAC Breda client project
 │   ├── README.md
 │   ├── Football_Analytics_Portfolio.ipynb
 │   ├── NAC_Player_Recruitment_Report.pdf
 │   └── requirements.txt
 │
-├── ANWBSafeDrivingApplication/         # ANWB driver safety app
+├── ANWBSafeDrivingApplication/         # ANWB client project
 │   ├── README.md
 │   ├── Driver_Safety_Application.ipynb
 │   ├── app/
@@ -438,6 +512,12 @@ portfolio_projects/
 
 ### Advanced Algorithms & Techniques
 
+**Research Methods:**
+- **Mixed-Methods Design:** Integrated quantitative surveys + qualitative interviews
+- **Thematic Analysis:** Systematic coding of interview transcripts
+- **Statistical Analysis:** Correlation analysis, demographic studies
+- **Ethics Compliance:** Research ethics review, GDPR, FAIR data principles
+
 **Graph Theory:**
 - **Root Segmentation:** Dijkstra's algorithm for skeleton length analysis
 - **Network Analysis:** Connected component analysis, shortest path
@@ -455,6 +535,7 @@ portfolio_projects/
 **Legal & Ethical AI:**
 - **EU AI Act:** Risk assessment and classification
 - **GDPR:** Data protection implementation
+- **Research Ethics:** Informed consent, anonymization, participant rights
 - **Fairness:** Bias detection and mitigation strategies
 
 **Multi-Modal Processing:**
@@ -473,14 +554,16 @@ Breda University of Applied Sciences (BUas), Netherlands
 - Machine Learning & Deep Learning
 - Computer Vision & Image Processing
 - Natural Language Processing
+- Research Methods (Mixed-Methods Design)
 - Legal & Ethical AI (EU AI Act, GDPR)
 - Production ML Systems
 
 **Notable Academic Projects:**
+- DigiWerkplaats Policy Research (Client: SME cybersecurity research)
 - NPEC Root Segmentation (Client: Netherlands Plant Eco-phenotyping Centre)
+- Content Intelligence NLP (Client: outstanding content media analytics)
 - NAC Breda Analytics (Client: Professional football club)
-- ANWB Driver Safety (Client: Dutch automobile association)
-- Content Intelligence NLP (Advanced transformers & XAI)
+- ANWB Driver Safety (Client: Royal Dutch Touring Club)
 
 ---
 
@@ -512,9 +595,9 @@ Breda University of Applied Sciences (BUas), Netherlands
 
 ---
 
-**Specializations:** Machine Learning • Computer Vision • NLP • EU AI Act Compliance • Agricultural AI • Medical Imaging
+**Specializations:** Machine Learning • Computer Vision • NLP • Policy Research • EU AI Act Compliance • Agricultural AI • Medical Imaging
 
-*Building AI solutions that deliver measurable impact while maintaining ethical standards and regulatory compliance.*
+*Building AI solutions that deliver measurable impact while maintaining ethical standards, regulatory compliance, and evidence-based research practices.*
 
 ---
 
