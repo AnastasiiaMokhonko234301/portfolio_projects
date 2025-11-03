@@ -1,4 +1,4 @@
-# Anastasiia Mokhonko - Data Science & AI Portfolio
+# Anastasiia Mokhonko - Portfolio
 
 Data Science & Artificial Intelligence Student at Breda University of Applied Sciences
 
