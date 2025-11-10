@@ -300,7 +300,7 @@ Interactive dashboard analyzing global human trafficking patterns to support UN 
 
 ## 📜 Certifications
 
-### DataCamp Professional Certificates (60+ hours)
+### Professional Certificates (60+ hours)
 
 **Business Intelligence & Analytics - Complete Track ⭐**
 - Introduction to Power BI
