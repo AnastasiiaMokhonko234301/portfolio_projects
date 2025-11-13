@@ -548,7 +548,7 @@ portfolio_projects/
 
 **Bachelor of Science - Data Science & Artificial Intelligence**  
 Breda University of Applied Sciences (BUas), Netherlands  
-*Expected Graduation: 2026*
+*Expected Graduation: 2027*
 
 **Focus Areas:**
 - Machine Learning & Deep Learning
